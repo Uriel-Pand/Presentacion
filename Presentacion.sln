@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29230.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Presentacion", "Presentacion\Presentacion.csproj", "{72E219FA-8C26-4BAD-A398-8F9377CB775C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Entidades.csproj", "{5D0AD5DE-FD04-4C3E-82CC-E42EC30FD3FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Datos", "Datos\Datos.csproj", "{28C7C2A2-FBDF-43B0-B5F4-DF0E9D049D2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72E219FA-8C26-4BAD-A398-8F9377CB775C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72E219FA-8C26-4BAD-A398-8F9377CB775C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72E219FA-8C26-4BAD-A398-8F9377CB775C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72E219FA-8C26-4BAD-A398-8F9377CB775C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D0AD5DE-FD04-4C3E-82CC-E42EC30FD3FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D0AD5DE-FD04-4C3E-82CC-E42EC30FD3FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D0AD5DE-FD04-4C3E-82CC-E42EC30FD3FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D0AD5DE-FD04-4C3E-82CC-E42EC30FD3FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28C7C2A2-FBDF-43B0-B5F4-DF0E9D049D2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28C7C2A2-FBDF-43B0-B5F4-DF0E9D049D2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28C7C2A2-FBDF-43B0-B5F4-DF0E9D049D2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28C7C2A2-FBDF-43B0-B5F4-DF0E9D049D2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA167AAB-43EC-416A-9901-0F0F1CAD4327}
+	EndGlobalSection
+EndGlobal
